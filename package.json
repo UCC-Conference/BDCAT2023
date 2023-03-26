@@ -1,8 +1,8 @@
 {
-  "name": "DBCAT23",
+  "name": "BDCAT23",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/DBCAT2023",
+  "homepage": "/BDCAT2023",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
