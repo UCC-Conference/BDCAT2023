@@ -48,6 +48,9 @@ const CallForPaper = () => {
                         <tr>
                             <td>Eirini Eleni Tsiropoulou, New Mexico University, USA</td>
                         </tr>
+                        <tr>
+                            <td>Ching-Hsien Hsu, National Chung Cheng University, Taiwan</td>
+                        </tr>
 
                         <tr>
                             <th>
