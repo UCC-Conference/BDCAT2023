@@ -54,13 +54,21 @@ const CallForPaper = () => {
 
                         <tr>
                             <th>
+                                <h3>Student Program Chair(s)</h3>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>Francesco Martella, University of Messina, Italy</td>
+                        </tr>
+
+                        <tr>
+                            <th>
                                 <h3>Proceedings Chair(s)</h3>
                             </th>
                         </tr>
                         <tr>
                             <td>Armando Ruggeri, University of Messina, Italy</td>
                         </tr>
-
 
                         <tr>
                             <th>
