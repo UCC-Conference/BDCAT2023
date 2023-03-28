@@ -51,6 +51,9 @@ const CallForPaper = () => {
                         <tr>
                             <td>Ching-Hsien Hsu, National Chung Cheng University, Taiwan</td>
                         </tr>
+                        <tr>
+                            <td>Dip Sankar Banerjee, Indian Institute of Technology (IIT) Jodhpur, India</td>
+                        </tr>
 
                         <tr>
                             <th>
