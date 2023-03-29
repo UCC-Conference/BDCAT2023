@@ -28,7 +28,7 @@ const CallForPaper = () => {
                             </th>
                         </tr>
                         <tr>
-                            <td>TBA</td>
+                            <td>Geoffrey C. Fox, University of Virginia, USA</td>
                         </tr>
 
                         <tr>
