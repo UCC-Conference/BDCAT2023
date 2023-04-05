@@ -12,7 +12,7 @@ const Committees = () => {
                     <tbody>
                         <tr>
                             <th>
-                                <h3>General Chair(s)</h3>
+                                <h3>General Co-Chair(s)</h3>
                             </th>
                         </tr>
                         <tr>
