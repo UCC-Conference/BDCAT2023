@@ -39,6 +39,15 @@ const Committees = () => {
                         <tr>
                             <td>Luiz Bittencourt, University of Campinas, Brazil</td>
                         </tr>
+    
+                        <tr>
+                            <th>
+                                <h3>Poster Co-Chair(s)</h3>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>Beilei Jiang, University of North Texas, USA</td>
+                        </tr>
 
                         <tr>
                             <th>
