@@ -93,7 +93,7 @@ const Committees = () => {
 
                         <tr>
                             <th>
-                                <h3>Student Program Chair(s)</h3>
+                                <h3>Student Program (Co-)Chair(s)</h3>
                             </th>
                         </tr>
                         <tr>
@@ -105,7 +105,7 @@ const Committees = () => {
 
                         <tr>
                             <th>
-                                <h3>Proceedings Chair(s)</h3>
+                                <h3>Proceedings (Co-)Chair(s)</h3>
                             </th>
                         </tr>
                         <tr>
