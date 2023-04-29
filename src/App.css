@@ -45,7 +45,13 @@ main {
 h1 {
     color: var(--primary);
 }
-
+a {
+    white-space: pre-wrap; /* CSS3 */
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */
+    white-space: -o-pre-wrap; /* Opera 7 */
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
 /* HEADER */
 .header {
     position: fixed;
@@ -155,7 +161,7 @@ h1 {
 .header.header-sticky > nav > ul > li > div.dropdown > a {
     color: var(--primary);
 }
-.header.header-sticky > nav > ul > li > div.dropdown:has(div > a.active) > a  {
+.header.header-sticky > nav > ul > li > div.dropdown:has(div > a.active) > a {
     color: #fff;
 }
 .header.header-sticky > nav > ul > li > div.dropdown > a > .arrow-down {
@@ -171,7 +177,7 @@ h1 {
 }
 .header > nav > ul > li .dropdown-menu {
     position: absolute;
-    white-space:nowrap;
+    white-space: nowrap;
     top: 60px;
     right: 10px;
     display: none;
@@ -381,7 +387,7 @@ footer > p > a:hover {
     font-size: 1.2em;
     color: #333333;
 }
-.pageContent > ul > li, 
+.pageContent > ul > li,
 .pageContent > ol > li {
     margin-bottom: 10px;
 }
