@@ -10,9 +10,9 @@ const CallForWorkshops = () => {
                 <h1>Call for Workshop Proposals Submission</h1>
                 <hr />
                 <p>
-                    16th IEEE/ACM International Conference on Utility and Cloud Computing (<strong>UCC 2023</strong>)
+                    The 10th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (<strong>BDCAT 2023</strong>)
                     <br />
-                    <Link to="https://ucc-conference.org">www.ucc-conference.org</Link>
+                    <Link to="https:/bdcat-conference.org">www.bdcat-conference.org</Link>
                 </p>
                 <p>
                     Taormina (Messina), Italy
@@ -29,10 +29,13 @@ const CallForWorkshops = () => {
                 <br />
                 <h2>CONTEXT & SCOPE</h2>
                 <p>
-                The IEEE/ACM International Conference on Utility and Cloud Computing is a premier IEEE/ACM conference covering all areas related to utility computing and cloud and edge computing services.
+                    The IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) a premier IEEE/ACM conference aiming to provide a platform for researchers from both academia and industry to present new
+                    discoveries in the broad area of big data computing and applications.
                 </p>
                 <p>
-                This will be the 16th UCC in a successful conference series of community-driven events. Previous events were held in Shanghai, China (Cloud 2009), Melbourne, Australia (Cloud 2010 & UCC 2011), Chennai, India (UCC 2010), Chicago, USA (UCC 2012), Dresden, Germany (UCC 2013), London, UK (UCC 2014), Limassol, Cyprus (UCC 2015), Shanghai, China (UCC 2016), Austin, Texas, USA (UCC 2017), Zurich, Switzerland (UCC 2018), and Auckland, New Zealand (UCC 2019), Online (UCC 2020), Leicester, UK/hybrid online (UCC 2021),  Vancouver, WA, USA (UCC 2022).
+                    This will be the 10th BDCAT in a successful conference series of community-driven events. Previous events were held in Vancouver, USA (BDCAT 2022), Leister, UK (BDCAT 2021), online (BDCAT 2020), Auckland, New Zealand (BDCAT 2019),
+                    Zurich, Switzerland (BDCAT 2018), Austin, Texas, USA (BDCAT 2017), Shanghai, China (BDCAT 2016), Limassol, Cyprus (BDCAT 2015), London, UK (BDCAT 2014). BDCAT 2023 will be held in conjunction with the 16th IEEE/ACM International
+                    Conference on Utility and Cloud Computing (UCC 2023) in Taormina, Messina, Italy.
                 </p>
                 <p>Proposals for workshops should be submitted in PDF format, must not exceed 2 pages in length and contain the following information.</p>
                 <ol>
@@ -49,7 +52,9 @@ const CallForWorkshops = () => {
                     </li>
                 </ol>
                 <p>
-                    Submit your workshop by using the following link:<br/><Link to="https://cmt3.research.microsoft.com/UCCBDCAT2023">https://cmt3.research.microsoft.com/UCCBDCAT2023</Link>
+                    Submit your workshop by using the following link:
+                    <br />
+                    <Link to="https://cmt3.research.microsoft.com/UCCBDCAT2023">https://cmt3.research.microsoft.com/UCCBDCAT2023</Link>
                 </p>
                 <br />
                 <h2>IMPORTANT DATES</h2>
@@ -71,28 +76,54 @@ const CallForWorkshops = () => {
                     We encourage workshops on both established research topics to promote newly developed ideas as well as workshops on emerging topics with sufficient body of research being carried out. Topics of interest include but are not limited
                     to:
                 </p>
-                <ul>
-                    <li>Applications: games, social networks, scientific computing (e-science) and business, as well as large-scale foundations for Big Data and analytics</li>
-                    <li>Architectural and Programming models for fog/edge computing and the computing continuum</li>
-                    <li>Autonomic techniques for Cloud and edge applications</li>
-                    <li>Cloud and edge management: autonomic, adaptive, self-*, SLAs, performance models and monitoring</li>
-                    <li>Cloud and edge business and legal implications beyond technology</li>
-                    <li>Cloud Computing middleware, stacks, tools, delivery networks and services at all layers (XaaS)</li>
-                    <li>Cloud to edge continuum for Internet of Things, Smart Industries, and Smart Cities</li>
-                    <li>Design and deployment models for Edge and Cloud</li>
-                    <li>Economic models and scenarios of use</li>
-                    <li>Edge Intelligence and Cognitive Computing Continuum</li>
-                    <li>Mobile and energy-efficient use Clouds</li>
-                    <li>Multi-access Edge Computing / Mobile Edge Computing</li>
-                    <li>Principles and theoretical foundations of Utility Computing, including pricing and service models</li>
-                    <li>Policy languages and programming models, such as edge-native and edge-enabled applications</li>
-                    <li>Scalability and resource management: brokering, scheduling, capacity planning, parallelism and elasticity</li>
-                    <li>Serverless computing</li>
-                    <li>Utility-driven models and mechanisms for Cloud federations</li>
-                    <li>Virtualization technologies and other enablers</li>
-                    <li>Artificial intelligence in Clouds and Edge</li>
-                    <li>Artificial Intelligence as a Service (AIaaS)</li>
-                </ul>
+                <ol>
+                    <li>Big Data Science</li>
+                    <ul>
+                        <li>Big Data Analytics</li>
+                        <li>Data Science Models and Approaches</li>
+                        <li>Algorithms for Big Data</li>
+                        <li>Big Data Search and Information Retrieval Techniques</li>
+                        <li>Data Mining and Knowledge Discovery Approaches</li>
+                        <li>Machine Learning Techniques for Big Data</li>
+                        <li>Big Data Acquisition, Integration, Cleaning, and Best Practices</li>
+                        <li>Big Data and Deep Learning</li>
+                    </ul>
+                    <li>Big Data Infrastructures and Platforms</li>
+                    <ul>
+                        <li>Scalable Computing Models, Theories, and Algorithms</li>
+                        <li>In-Memory Systems and Platforms for Big Data Analytics</li>
+                        <li>Big Data and High Performance Computing</li>
+                        <li>Cyber-Infrastructure for Big Data</li>
+                        <li>Performance Evaluation Reports for Big Data Systems</li>
+                        <li>Storage Systems (including file systems, NoSQL, and RDBMS)</li>
+                        <li>Resource Management Approaches for Big Data Systems</li>
+                        <li>Data Analytics on Edge Devices</li>
+                    </ul>
+                    <li>Big Data Applications</li>
+                    <ul>
+                        <li>Big Data Applications for Internet of Things</li>
+                        <li>Mobile Applications of Big Data</li>
+                        <li>Big Data Applications for Cyber Physical Systems</li>
+                        <li>Healthcare Applications such as Genome Processing and Analytics</li>
+                        <li>Scientific Application Case Studies on Cloud Infrastructure</li>
+                        <li>Big Data in Social Networks</li>
+                        <li>Data Streaming Applications</li>
+                        <li>Big Data Trends and Challenges</li>
+                        <li>Fault Tolerance and Reliability</li>
+                        <li>Scalability of Big Data Systems</li>
+                        <li>Energy-Efficient Algorithms</li>
+                        <li>Big Data Privacy and Security</li>
+                        <li>Big Data Archival and Preservation</li>
+                    </ul>
+                    <li>Visualization of Big Data</li>
+                    <ul>
+                        <li>Visual Analytics Algorithms and Foundations</li>
+                        <li>Graph and Context Models for Visualization</li>
+                        <li>Analytics Reasoning and Sense-making on Big Data</li>
+                        <li>Visual Representation and Interaction</li>
+                        <li>Big Data Transformation, and Presentation</li>
+                    </ul>
+                </ol>
                 <br />
                 <h2>RESPONSIBILITIES</h2>
                 <p>Workshop chair(s) will be responsible for the following:</p>
@@ -100,7 +131,9 @@ const CallForWorkshops = () => {
                     <li>Setup the submission system of your choice.</li>
                     <li>Invite TPC members.</li>
                     <li>
-                    Produce a web site and a “Call for Papers/Participation” for their workshop. The URL should be sent to the UCC Workshops chairs. The call must make it clear that the workshop is open to all members of the Cloud, Edge, Fog, Big Data, Grid, and Cluster Computing community. It should mention that at least one author of each accepted submission must attend the workshop and that all workshop participants must register under the UCC 2023 workshop day registration fee or the conference fee. The CfP should make it clear that the registration of at least one author requires the full (non-student, non-workshop) rate.
+                        Produce a web site and a “Call for Papers/Participation” for their workshop. The URL should be sent to the BDCAT Workshops chairs. The call must make it clear that the workshop is open to all members of the Cloud, Edge, Fog,
+                        Big Data, Grid, and Cluster Computing community. It should mention that at least one author of each accepted submission must attend the workshop and that all workshop participants must register under the BDCAT 2023 workshop
+                        day registration fee or the conference fee. The CfP should make it clear that the registration of at least one author requires the full (non-student, non-workshop) rate.
                     </li>
                     <li>
                         Ensure that all workshop papers are a maximum of 6 pages in length, following the main conference format. It is the responsibility of the workshop organizers to ensure that this page limit has been adhered to. Additional pages
@@ -112,18 +145,19 @@ const CallForWorkshops = () => {
                     <li>Assist in producing a camera-ready version of the workshop proceedings.</li>
                     <li>The conference will take place in person and one workshop organizer should attend the conference to take care of the workshop sessions.</li>
                 </ul>
-                <p>The UCC 2023 Conference Organizing Committee will be responsible for the following:</p>
+                <p>The BDCAT 2023 Conference Organizing Committee will be responsible for the following:</p>
                 <ul>
                     <li>Provide a link to the workshop's web site on the main conference site.</li>
                     <li>Provide logistics support and a meeting place for the workshop.</li>
                     <li>In conjunction with the organizers, determine the workshop date and time.</li>
-                    <li>Provide copies of the workshop proceedings to attendees. Workshop proceedings will be published by ACM, following the UCC conference proceedings for the current year.</li>
+                    <li>Provide copies of the workshop proceedings to attendees. Workshop proceedings will be published by ACM, following the BDCAT conference proceedings for the current year.</li>
                 </ul>
                 <br />
                 <h2>Details and Important Notes</h2>
                 <ol>
                     <li>
-                        If the workshop is too small (i.e., it does not attract enough submissions) the UCC 2023 Organizing Committee may decide to merge that workshop with another. We encourage workshop organizers to attract a large community. In extreme situations we may also cancel workshops if there are not enough submissions. 
+                        If the workshop is too small (i.e., it does not attract enough submissions) the BDCAT 2023 Organizing Committee may decide to merge that workshop with another. We encourage workshop organizers to attract a large community. In
+                        extreme situations we may also cancel workshops if there are not enough submissions.
                     </li>
                     <li>
                         Workshop organizers must ensure that suitable quality measures have been taken to ensure that the accepted papers are of high quality. All papers must be reviewed by an international Technical Program Committee with a minimum
