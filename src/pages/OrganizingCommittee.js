@@ -30,6 +30,9 @@ const OrganizingCommittee = () => {
                         <tr>
                             <td>Geoffrey C. Fox, University of Virginia, USA</td>
                         </tr>
+                        <tr>
+                            <td>Maria Fazio, University of Messina, Italy</td>
+                        </tr>
     
                         <tr>
                             <th>
