@@ -29,13 +29,7 @@ const CallForWorkshops = () => {
                 <br />
                 <h2>CONTEXT & SCOPE</h2>
                 <p>
-                    The IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) a premier IEEE/ACM conference aiming to provide a platform for researchers from both academia and industry to present new
-                    discoveries in the broad area of big data computing and applications.
-                </p>
-                <p>
-                    This will be the 10th BDCAT in a successful conference series of community-driven events. Previous events were held in Vancouver, USA (BDCAT 2022), Leister, UK (BDCAT 2021), online (BDCAT 2020), Auckland, New Zealand (BDCAT 2019),
-                    Zurich, Switzerland (BDCAT 2018), Austin, Texas, USA (BDCAT 2017), Shanghai, China (BDCAT 2016), Limassol, Cyprus (BDCAT 2015), London, UK (BDCAT 2014). BDCAT 2023 will be held in conjunction with the 16th IEEE/ACM International
-                    Conference on Utility and Cloud Computing (UCC 2023) in Taormina, Messina, Italy.
+                    The IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (BDCAT) is a premier annual conference series aiming to provide a platform for researchers from both academia and industry to present new discoveries in the broad area of big data computing and applications. Previous events were held in London, UK (BDCAT 2014), Limassol, Cyprus (BDCAT 2015), Shanghai, China (BDCAT 2016), Austin, USA (BDCAT 2017), Zurich, Switzerland (BDCAT 2018), Auckland, New Zealand (BDCAT 2019), Leicester, UK (BDCAT 2020), Leicester, UK (BDCAT 2021) and Vancouver, USA (BDCAT 2022). BDCAT 2023 will be held in conjunction with the 16th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2023) in Taormina, Messina, Italy.
                 </p>
                 <p>Proposals for workshops should be submitted in PDF format, must not exceed 2 pages in length and contain the following information.</p>
                 <ol>
@@ -77,51 +71,56 @@ const CallForWorkshops = () => {
                     to:
                 </p>
                 <ol>
-                    <li>Big Data Science</li>
+                    <li><h3>Scaling Machine Learning and Data Mining</h3></li>
                     <ul>
-                        <li>Big Data Analytics</li>
                         <li>Data Science Models and Approaches</li>
-                        <li>Algorithms for Big Data</li>
-                        <li>Big Data Search and Information Retrieval Techniques</li>
-                        <li>Data Mining and Knowledge Discovery Approaches</li>
-                        <li>Machine Learning Techniques for Big Data</li>
-                        <li>Big Data Acquisition, Integration, Cleaning, and Best Practices</li>
-                        <li>Big Data and Deep Learning</li>
+                        <li>Data Acquisition, Integration, Cleaning and Best Practices</li>
+                        <li>Supervised, Unsupervised and Reinforcement Learning</li>
+                        <li>Neural Networks, Convolution Neural Networks and Recurrent Neural Networks</li>
+                        <li>Transformer and Natural Language Processing</li>
+                        <li>Swarm Intelligence and Evolutionary Strategy</li>
+                        <li>Efficient Model Training, Inference and Serving</li>
+                        <li>Distributed, Federated and Parallel Learning Algorithms</li>
+                        <li>Testing, Debugging and Monitoring</li>
+                        <li>Fairness, Interpretability and Explainability</li>
+                        <li>Specialized Hardware for Scaling</li>
                     </ul>
-                    <li>Big Data Infrastructures and Platforms</li>
+
+                    <li><h3>Scaling Data Infrastructures and Platforms</h3></li>
                     <ul>
-                        <li>Scalable Computing Models, Theories, and Algorithms</li>
-                        <li>In-Memory Systems and Platforms for Big Data Analytics</li>
-                        <li>Big Data and High Performance Computing</li>
-                        <li>Cyber-Infrastructure for Big Data</li>
-                        <li>Performance Evaluation Reports for Big Data Systems</li>
+                        <li>Scalable Computing Models, Theories and Algorithms</li>
+                        <li>Mapreduce: Hadoop and Spark</li>
+                        <li>Privacy and Security over the Data Life Cycle</li>
+                        <li>Data Search and Information Retrieval Techniques</li>
+                        <li>Extract/Transform/Load (ETL) or ETL Pipelines</li>
+                        <li>In-Memory Systems and Platforms</li>
+                        <li>Performance Evaluation Reports</li>
                         <li>Storage Systems (including file systems, NoSQL, and RDBMS)</li>
-                        <li>Resource Management Approaches for Big Data Systems</li>
+                        <li>Resource Management Approaches</li>
                         <li>Data Analytics on Edge Devices</li>
-                    </ul>
-                    <li>Big Data Applications</li>
-                    <ul>
-                        <li>Big Data Applications for Internet of Things</li>
-                        <li>Mobile Applications of Big Data</li>
-                        <li>Big Data Applications for Cyber Physical Systems</li>
-                        <li>Healthcare Applications such as Genome Processing and Analytics</li>
-                        <li>Scientific Application Case Studies on Cloud Infrastructure</li>
-                        <li>Big Data in Social Networks</li>
-                        <li>Data Streaming Applications</li>
-                        <li>Big Data Trends and Challenges</li>
                         <li>Fault Tolerance and Reliability</li>
-                        <li>Scalability of Big Data Systems</li>
-                        <li>Energy-Efficient Algorithms</li>
-                        <li>Big Data Privacy and Security</li>
-                        <li>Big Data Archival and Preservation</li>
+                        <li>Energy-Efficiency and Sustainability</li>
+                        <li>Data Archival and Preservation</li>
                     </ul>
-                    <li>Visualization of Big Data</li>
+                    <li><h3>Scaling Data Applications</h3></li>
+                    <ul>
+                        <li>Data Applications for Internet of Things, Mobile Applications and Cyber-Physical Systems</li>
+                        <li>Data Applications for Healthcare and Life Science (e.g., Genome Processing)</li>
+                        <li>Data Applications for Physical Science and Engineering</li>
+                        <li>Data Applications for Business and Enterprise Applications</li>
+                        <li>Data Applications for Social Networks</li>
+                        <li>Data Applications for Scientific Case Studies</li>
+                        <li>Data Applications over the Cloud-Edge Continuum</li>
+                        <li>Data Streaming and Batch Applications</li>
+                        <li>Data Trends and Challenges</li>
+                    </ul>
+                    <li><h3>Scaling Data Visualization</h3></li>
                     <ul>
                         <li>Visual Analytics Algorithms and Foundations</li>
                         <li>Graph and Context Models for Visualization</li>
-                        <li>Analytics Reasoning and Sense-making on Big Data</li>
+                        <li>Analytics Reasoning and Sense-making</li>
                         <li>Visual Representation and Interaction</li>
-                        <li>Big Data Transformation, and Presentation</li>
+                        <li>Data Transformation and Presentation</li>
                     </ul>
                 </ol>
                 <br />
