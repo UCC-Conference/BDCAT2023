@@ -7,7 +7,7 @@ const CallForWorkshops = () => {
     return (
         <PageWrapper>
             <Content>
-                <h1>Call for Workshop Proposals Submission</h1>
+                <h1>Call for Workshop Proposals</h1>
                 <hr />
                 <p>
                     The 10th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (<strong>BDCAT 2023</strong>)
