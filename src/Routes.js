@@ -5,6 +5,7 @@ import CallForPaper from "./pages/CallForPaper";
 import CallForWorkshops from "./pages/CallForWorkshops";
 import Venue from "./pages/Venue";
 import Dates from "./pages/Dates";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
 
 export default function getRoutes() {
     return [
@@ -52,6 +53,12 @@ export default function getRoutes() {
             title: "Venue",
             href: "/venue",
             component: <Venue />,
+            menu: true
+        },
+        {
+            title: "Privacy Policy",
+            href: "/privacy-policy",
+            component: <PrivacyPolicy />,
             menu: true
         },
     ];
