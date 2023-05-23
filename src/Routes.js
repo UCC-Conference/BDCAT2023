@@ -59,7 +59,7 @@ export default function getRoutes() {
             title: "Privacy Policy",
             href: "/privacy-policy",
             component: <PrivacyPolicy />,
-            menu: true
+            menu: false
         },
     ];
 }
