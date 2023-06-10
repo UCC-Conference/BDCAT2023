@@ -1,13 +1,19 @@
 import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
-import { Link } from "react-router-dom";
+import CfpPdf from "../assets/documents/CallForPapers/BDCAT2023-cfp.pdf";
+import CfpTxt from "../assets/documents/CallForPapers/BDCAT2023-cfp.txt";
+
+
 const CallForPaper = () => {
     return (
         <PageWrapper>
             <Content>
                 <h1>Call for Papers</h1>
                 <hr/>
+                <p>
+                    [<a href={CfpPdf}>PDF</a>] - [<a href={CfpTxt}>Txt</a>]
+                </p>
                 <p>
                     In recent years, there has been significant interest in the use of Machine Learning and AI-based techniques to support large data analysis, with research and implementation of systems specifically focused on supporting different phases of the data processing lifecycle. These have ranged from in-memory systems and distributed environments (e.g., MapReduce/Hadoop, Spark) to specialist environments for stream processing of data and events (e.g., Flink, Kinesis) and Serverless (e.g., OpenWhisk, AWS Lambda). On the other hand, we also realise the importance of computational systems required to process small data volumes, but which involve interdependencies and relationships that are hard to capture and derive.
                 </p>
