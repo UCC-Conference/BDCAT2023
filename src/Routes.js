@@ -3,6 +3,7 @@ import OrganizingCommittee from "./pages/OrganizingCommittee";
 import SteeringCommittee from "./pages/SteeringCommittee";
 import CallForPaper from "./pages/CallForPaper";
 import CallForWorkshops from "./pages/CallForWorkshops";
+import Workshops from "./pages/Workshops";
 import Venue from "./pages/Venue";
 import Dates from "./pages/Dates";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
@@ -48,6 +49,12 @@ export default function getRoutes() {
             component: <CallForWorkshops />,
             menu: true,
             parent: 'Calls'
+        },
+        {
+            title: "Workshops",
+            href: "/workshops",
+            component: <Workshops />,
+            menu: false
         },
         {
             title: "Venue",
