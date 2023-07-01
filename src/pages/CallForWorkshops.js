@@ -20,7 +20,7 @@ const CallForWorkshops = () => {
                     <strong>4-7 Dec. 2023</strong>
                 </p>
                 <p>
-                    Workshop inquiries should be sent by e-mail to the workshops chairs (Luiz Bittencourt, Valeria Cardellini
+                    Workshop inquiries should be sent by e-mail to the workshops chairs (Luiz Bittencourt, Valeria Cardellini)
                 </p>
                 <br />
                 <h2>CONTEXT & SCOPE</h2>
