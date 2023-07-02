@@ -72,7 +72,7 @@ export default function getRoutes() {
         },
         {
             title: "2021",
-            href: "https://www.cs.le.ac.uk/events/UCC2021/",
+            href: "https://www.cs.le.ac.uk/events/BDCAT2021/",
             component: null,
             menu: true,
             parent: 'Previous\neditions',
@@ -80,7 +80,7 @@ export default function getRoutes() {
         },
         {
             title: "2020",
-            href: "https://www.cs.le.ac.uk/events/UCC2020/",
+            href: "https://www.cs.le.ac.uk/events/BDCAT2020/",
             component: null,
             menu: true,
             parent: 'Previous\neditions',
