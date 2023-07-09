@@ -16,12 +16,12 @@ const Workshops = () => {
                         Chair: Bo Yuan
                     </li>
                     <li>
-                        <strong>Big Data Computing, Applications and Technologies for Waste Management (BDCAT4WM 2023)</strong>
+                        <Link to="https://sites.google.com/dimes.unical.it/bdcat4wm2023/home-page" target="_blank">Big Data Computing, Applications and Technologies for Waste Management (BDCAT4WM 2023)</Link>
                         <br />
                         Chairs: Ester Zumpano, Luciano Caroprese, Shahab S. Band
                     </li>
                     <li>
-                        <strong>Big Data and Artificial Intelligence in Digital Twins (BAID 2023)</strong>
+                        <Link to="https://baid2023.org/" target="_blank">Big Data and Artificial Intelligence in Digital Twins (BAID 2023)</Link>
                         <br />
                         Chairs: Fatih Kurugollu, Abbes Amira, Yassine Himeur
                     </li>
