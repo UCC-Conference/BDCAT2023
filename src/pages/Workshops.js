@@ -26,7 +26,7 @@ const Workshops = () => {
                         Chairs: Fatih Kurugollu, Abbes Amira, Yassine Himeur
                     </li>
                     <li>
-                        <strong>Big Nature Data Analysis: Methods and Applications (BigNDA 2023)</strong>
+                    <Link to="https://fcrlab.unime.it/calls/bignda2023" target="_blank">Big Nature Data Analysis: Methods and Applications (BigNDA 2023)</Link>
                         <br />
                         Chairs: Lorenzo Carnevale, Vasileios Mygdalis, Ioannis Pitas, Massimo Villari
                     </li>
