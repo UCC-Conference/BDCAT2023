@@ -85,7 +85,55 @@ export default function getRoutes() {
             menu: true,
             parent: 'Previous\neditions',
             external: true
-        },     
+        },
+        {
+            title: "2019",
+            href: "https://dl.acm.org/doi/proceedings/10.1145/3365109",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2018",
+            href: "http://uccbdcat18.cloudlab.zhaw.ch/bdcat2018/welcome-to-bdcat-2018.html",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2017",
+            href: "https://dl.acm.org/doi/proceedings/10.1145/3148055",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2016",
+            href: "https://dl.acm.org/doi/proceedings/10.1145/3006299",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2015",
+            href: "http://datasys.cs.iit.edu/events/BDC2015/",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2014",
+            href: "https://ieeexplore.ieee.org/xpl/conhome/7312651/proceeding",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
         {
             title: "Privacy Policy",
             href: "/privacy-policy",
