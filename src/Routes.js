@@ -4,6 +4,7 @@ import SteeringCommittee from "./pages/SteeringCommittee";
 import TechnicalProgramCommittee from "./pages/TechnicalProgramCommittee";
 import CallForPaper from "./pages/CallForPaper";
 import CallForWorkshops from "./pages/CallForWorkshops";
+import CallForPosters from "./pages/CallForPosters";
 import Workshops from "./pages/Workshops";
 import Venue from "./pages/Venue";
 import Dates from "./pages/Dates";
@@ -55,6 +56,13 @@ export default function getRoutes() {
             title: "Call for Workshops",
             href: "/call-for-workshops",
             component: <CallForWorkshops />,
+            menu: true,
+            parent: 'Calls'
+        },
+        {
+            title: "Call for Posters",
+            href: "/call-for-posters",
+            component: <CallForPosters />,
             menu: true,
             parent: 'Calls'
         },
