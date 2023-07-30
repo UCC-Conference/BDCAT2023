@@ -11,7 +11,7 @@ const Workshops = () => {
                 <hr />
                 <ul>
                     <li>
-                        <strong>3rd International Workshop on Machine Learning and Health Informatics (MLHI 2023)</strong>
+                        <Link to="https://sites.google.com/view/mlhi2023" target="_blank">3rd International Workshop on Machine Learning and Health Informatics (MLHI 2023)</Link>
                         <br />
                         Chair: Bo Yuan
                     </li>
