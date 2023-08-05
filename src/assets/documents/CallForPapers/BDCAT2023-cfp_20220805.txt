@@ -91,9 +91,9 @@ published by the ACM and made available online via the
 IEEE Xplore Digital Library and ACM Digital Library.
 
 >> IMPORTAND DATES
-Timezone: Anywhere in the world! \newline
-Paper Submissions Due: August 17, 2023 \newline
-Acceptance Notification: September 30, 2023 \newline
+Timezone: Anywhere in the world!
+Paper Submissions Due: August 17, 2023
+Acceptance Notification: September 30, 2023
 Camera Ready Papers Due: October 21, 2023
 
 ORGANIZING COMMITTEE
