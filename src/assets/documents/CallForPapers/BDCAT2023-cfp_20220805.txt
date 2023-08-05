@@ -76,7 +76,8 @@ unpublished research that is not currently under review
 for any other conference or journal. Manuscripts 
 are submitted in PDF format and may not exceed ten (10)
 ACM-formatted *double-column* pages, including figures,
-tables, and references. All manuscripts will be reviewed
+tables, and references. ll manuscripts undergo a 
+double-blind peer-review process and will be reviewed
 and judged on correctness, originality, technical
 strength, rigor in analysis, quality of results, quality
 of presentation, and interest and relevance to the
