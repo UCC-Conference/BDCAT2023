@@ -5,6 +5,7 @@ import TechnicalProgramCommittee from "./pages/TechnicalProgramCommittee";
 import CallForPaper from "./pages/CallForPaper";
 import CallForWorkshops from "./pages/CallForWorkshops";
 import CallForPosters from "./pages/CallForPosters";
+import CallForArtifacts from "./pages/CallForArtifacts";
 import Workshops from "./pages/Workshops";
 import Venue from "./pages/Venue";
 import Dates from "./pages/Dates";
@@ -58,6 +59,13 @@ export default function getRoutes() {
             title: "Call for Papers",
             href: "/call-for-papers",
             component: <CallForPaper />,
+            menu: true,
+            parent: 'Calls'
+        },
+        {
+            title: "Call for Artifacts",
+            href: "/call-for-artifacts",
+            component: <CallForArtifacts />,
             menu: true,
             parent: 'Calls'
         },
