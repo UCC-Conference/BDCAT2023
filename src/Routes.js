@@ -12,6 +12,7 @@ import Dates from "./pages/Dates";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import PhDSymposium from "./pages/PhDSymposium";
 import KeynoteSpeakers from "./pages/KeynoteSpeakers";
+import Registrations from "./pages/Registrations";
 
 export default function getRoutes() {
     return [
@@ -94,6 +95,12 @@ export default function getRoutes() {
             title: "Workshops",
             href: "/workshops",
             component: <Workshops />,
+            menu: true
+        },
+        {
+            title: "Registration",
+            href: "/registration",
+            component: <Registrations />,
             menu: true
         },
         {
