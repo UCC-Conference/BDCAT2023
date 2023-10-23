@@ -30,6 +30,7 @@ const SteeringCommittee = () => {
                         <tr><td>Dongfang Zhao, University of Washington, USA</td></tr>
                         <tr><td>Emre Yilmaz, University of Houston-Downtown, USA</td></tr>
                         <tr><td>Fabiana Zollo, Ca' Foscari University, Italy</td></tr>
+                        <tr><td>Geoffrey Fox, Indiana University, USA</td></tr>
                         <tr><td>Guillaume Mercier, Bordeaux INP, France</td></tr>
                         <tr><td>Houjun Tang, Lawrence Berkeley National Laboratory, USA</td></tr>
                         <tr><td>In Kee Kim, University of Georgia, Georgia</td></tr>
@@ -39,6 +40,7 @@ const SteeringCommittee = () => {
                         <tr><td>Jiayin Wang, Montclair State University, USA</td></tr>
                         <tr><td>Jie Cui, Anhui University, China</td></tr>
                         <tr><td>Jose Brito, Banco do Brasil, Brazil</td></tr>
+                        <tr><td>Jingyuan Zhang, George Mason University, USA</td></tr>
                         <tr><td>Junqi Yin, Oak Ridge National Laboratory, USA</td></tr>
                         <tr><td>Laura Ricci, University of Pisa. Italy</td></tr>
                         <tr><td>Lee Gillam, University of Surrey, England</td></tr>
@@ -57,6 +59,7 @@ const SteeringCommittee = () => {
                         <tr><td>Steven Wright, University of York, USA</td></tr>
                         <tr><td>Thomas Beach, Cardiff University, UK</td></tr>
                         <tr><td>Tianxi Ji, Case Western Reserve University, USA</td></tr>
+                        <tr><td>Valeria Lukaj, University of Messina, Italy</td></tr>
                         <tr><td>Varun Soundararajan, Google Inc</td></tr>
                         <tr><td>Weilong Ding, North China University of Technology, China</td></tr>
                         <tr><td>Xiao Chen, University of Edinburgh, UK</td></tr>
