@@ -13,6 +13,7 @@ import PrivacyPolicy from "./pages/PrivacyPolicy";
 import PhDSymposium from "./pages/PhDSymposium";
 import KeynoteSpeakers from "./pages/KeynoteSpeakers";
 import Registrations from "./pages/Registrations";
+import CameraReady from "./pages/CameraReady";
 
 export default function getRoutes() {
     return [
@@ -103,6 +104,13 @@ export default function getRoutes() {
             component: <Registrations />,
             menu: true
         },
+        {
+            title: "Camera-ready",
+            href: "/camera-ready",
+            component: <CameraReady />,
+            menu: true,
+            parent: 'Registration'
+          },
         {
             title: "Venue",
             href: "/venue",
