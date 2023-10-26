@@ -102,7 +102,8 @@ export default function getRoutes() {
             title: "Registration",
             href: "/registration",
             component: <Registrations />,
-            menu: true
+            menu: true,
+            parent: 'Registration'
         },
         {
             title: "Camera-ready instructions",
