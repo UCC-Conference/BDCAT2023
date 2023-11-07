@@ -665,6 +665,12 @@ div.sponsorships {
 div.sponsorships > img {
     max-width: 500px;
 }
+div.fullImg {
+    padding: 10px;
+}
+div.fullImg > img {
+    width: 100%;
+} 
 @media only screen and (max-width: 1056px) {
     .bigHeader > div > h1 {
         font-size: 2em;
