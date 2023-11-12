@@ -16,7 +16,7 @@ const Workshops = () => {
                         Chair: Bo Yuan
                     </li>
                     <li>
-                        <Link to="https://sites.google.com/dimes.unical.it/bdcat4wm2023/home-page" target="_blank">Big Data Computing, Applications and Technologies for Waste Management (BDCAT4WM 2023)</Link>
+                        <Link to="https://sites.google.com/dimes.unical.it/bdcat4wm2023/home-page" target="_blank"><del>Big Data Computing, Applications and Technologies for Waste Management (BDCAT4WM 2023)</del> -> incorporated into BigNDA 2023</Link>
                         <br />
                         Chairs: Ester Zumpano, Luciano Caroprese, Shahab S. Band
                     </li>
