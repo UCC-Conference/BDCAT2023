@@ -679,6 +679,9 @@ table.schedule tr td {
     text-align: center;
     padding: 20px 10px;
 }
+table.schedule tr.gray td {
+    background-color: #ccc;
+}
 table.schedule tr:first-of-type td  {
     font-weight: 600;
     color: white;
