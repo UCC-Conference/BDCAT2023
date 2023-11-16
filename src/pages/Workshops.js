@@ -21,7 +21,7 @@ const Workshops = () => {
                         Chairs: Ester Zumpano, Luciano Caroprese, Shahab S. Band
                     </li>
                     <li>
-                        <Link to="https://baid2023.org/" target="_blank">Big Data and Artificial Intelligence in Digital Twins (BAID 2023)</Link>
+                        <del><Link to="https://baid2023.org/" target="_blank">Big Data and Artificial Intelligence in Digital Twins (BAID 2023)</Link></del> (canceled)
                         <br />
                         Chairs: Fatih Kurugollu, Abbes Amira, Yassine Himeur
                     </li>
