@@ -16,7 +16,7 @@ function BigHeader(props) {
                 <div class="right">
                     <img src={logo} alt="BDCAT 2023 Logo" />
                     <h1>The 10th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT2023)</h1>
-                    <Link to="https://ucc-conference.org/"><h2>Co-located conference: UCC 2023</h2></Link>
+                    <Link to="https://ucc-conference.github.io/UCC2023"><h2>Co-located conference: UCC 2023</h2></Link>
                 </div>
             </div>
         </>
